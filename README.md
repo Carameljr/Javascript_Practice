@@ -1,10 +1,10 @@
 # Hello 
 
 you can check it out here
-## countdown-timer:
+### countdown-timer:
 https://carameljr.github.io/Javascript_Practice/countdown-timer
 
-## quiz-app:
+### quiz-app:
 https://carameljr.github.io/Javascript_Practice/quiz-app
 
 ### Notes-App:
